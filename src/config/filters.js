@@ -25,6 +25,7 @@ export default {
     'HR',
     'Карьера',
     'Собеседования',
+    'ИБ/DevSecOps/AppSec',
     'Другое',
   ],
   byTags: {
@@ -33,7 +34,7 @@ export default {
     ops: ['DevOps/SRE', 'Databases', 'Сети', 'Cloud'],
     hr: ['HR', 'Карьера', 'Собеседования', 'Entrepreneurship', 'DevRel'],
     marketing: ['Marketing', 'Content/Copy'],
-    rest: ['Data Science/ML', 'UX/UI/Design', 'QA', 'Аналитика', 'Другое'],
+    rest: ['Data Science/ML', 'UX/UI/Design', 'QA', 'Аналитика', 'Другое','ИБ/DevSecOps/AppSec'],
   },
   price: [
     'Бесплатно',
@@ -78,7 +79,7 @@ export default {
       '6000 руб',
       '7000 руб',
       '8000 руб',
-      '9000 руб',
+      '9000 руб'
     ],
     'По договоренности': ['По договоренности'],
   },
